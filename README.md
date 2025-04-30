@@ -9,3 +9,7 @@
 <a href = "https://github.com/KirillMos1/rolton-ide">Rolton IDE (IDE для RoltonLang)</a>
 
 <a href = "https://github.com/KirillMos1/KirillkasCode">KirillkasCode (язык программирования)</a>
+
+<h3>Статистика:</h3>
+
+![Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=KirillMos1)
